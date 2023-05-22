@@ -34,7 +34,7 @@ pycryptodome==3.7.0
 pyethash==0.1.27
 pyflakes==2.0.0
 pytest==4.0.0
-requests==2.20.1
+requests==2.31.0
 rlp==1.0.3
 semantic-version==2.6.0
 six==1.11.0
